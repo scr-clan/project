@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+    <style>
+        .step-1 {
+            color:green;
+        }
+        .step-2 {
+            color:blue;
+        }
+        .step-3 {
+            color:red;
+        }
+        .step-4 {
+            color:turquoise;
+        }
+        .step-5 {
+            color:orange;
+        }
+        .step-6 {
+            color:purple;
+        }
+        .step-7 {
+            color:rgb(0, 219, 58);
+        }
+        .rep-1 {
+            color:green;
+        }
+        .rep-2 {
+            color:blue;
+        }
+        .rep-3 {
+            color:red;
+        }
+        .rep-4 {
+            color:orange;
+        }
+        .rep-5 {
+            color:turquoise;
+        }
+        .epic {
+            color:blue;
+        }
+        .amazing {
+            color:yellow;
+        }
+        .sco-1 {
+            color:green;
+        }
+        .sco-2 {
+            color:blue;
+        }
+        .sco-3 {
+            color:orange;
+        }
+        .sco-4 {
+            color:turquoise;
+        }
+        .sc0-5 {
+            color:yellow;
+        }
+        .yay {
+            color:turquoise;
+        }
+        .but-1 {
+            color:blue;
+        }
+        .but-2 {
+            color:turquoise;
+        }
+        .ing {
+            color:orange;
+        }
+        .ing-1 {
+            color:blue;
+        }
+        .but-3 {
+            color:green;
+        }
+        .ingr {
+            color:orange;
+        }
+        .ingre {
+            color:orange;
+        }
+        .hello {
+            color:blue;
+        }
+        .food {
+            color:blue;
+        }
+        .orange {
+            color:orange;
+        }
+    </style>
+       
+        <h1 class="orange">Keenan's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+           <h2 id="Recipe ">Recipe #1</h2>
+        <ol>
+            <li><a href="Recipe ">Recipe #1</a></li>
+        </ol>
+        
+        <a href="#Recipe"></a>
+        
+     
+        
+        <ul>
+            <li>prep:35</li>
+            <li>cook:20</li>
+            <li>Serves: 12-14</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+               <tr>
+                    <td>golden caster sugar</td>
+                    <td>200g
+                    
+               </tr>
+               <tr>
+                   <td>unsalted butter,</td>
+                   <td>200g</td>
+               </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        <p class="step-1"><strong>Step 1:</strong> Heat oven to 190/170c gas.Butter the base and side of two 20cm round sandwich tins and line the bases with baking parchment.
+</p>
+
+<p class="step-2"><strong>Step 2:</strong> In a large bowl,beat together 200g of golden caster sugar,200g of softened unsalted butter,4 large eggs,200g of self raising flower,2 tbsp cocoa powder,1 tsp of baking powder,1/2 tsp of vanilla extract,2 tbsp of milk and a pinch of salt until pale. </p>
+
+<p class="step-3"><strong>Step 3:</strong> Divide the mixture between the prepared tins.Bake for 20mins or until a skewer inserted into the center of the cake comes out clean.</p>
+
+<p class="step-4"><strong>Step 4:</strong> Leave to cool in the tins for 10 mins,then turn out onto a wire rack t cool completely.</p>
+
+<p class="step-5"><strong>Step 5:</strong> For the buttercream,put 100g chopped milk chocolate in a heatproof bowl and melt in the microwave,stiring every 30 seconds.Leave the melted chocolate to cool for 5 mins.</p>
+
+<p class="step-6"><strong>Step 6:</strong> Mash 200g of softened butter and 400g of icing sugar together with a fork, then switch to a wodden spoon or electric beaters,if you have them.</p>
+
+<p class="step-7"><strong>Step 7:</strong> Sift in 5 tbsp cocoa powder, with a pinch of salt and pour in the melted choclate and 2 tbsp of milk.Mix again until smooth. On a cake stand or large plate, sandwich the cakes together with half of the buttercream,then spread the rest on the top.DEcorate with chocolate shards if you like.To make chocolate shard: melt 50g of dark chocolate and pour it onto a tray lined with parchment or foil.Now melt 25g milk chocolate and 25g of dark chocolate and drizzle them over the dark chocolate before it sets.Shake the tray gently to level the mixture then leave to set somewhere cool.Chop into shards.</p>
+
+<h1 class="amazing">You have now completed recipe 1!!! Well Done!!!</h1>
+
+
+        
+    <p><em>Source: <a target ="_blank" href="https://www.bbcgoodfood.com/recipes/easy-chocolate-cake">chocolate cake 4tw</a></em></p>
+
+    
+  
+
+
+<img src="https://www.kasandbox.org/programming-images/food/chocolates.png"width="200">
+ <h2>Recipe #2</h2>
+ <h2>Contents</h2>
+ 
+ <ul>
+     <li>Prep:10min</li>
+     <li>Cook:20min</li>
+     <li>serves:6
+ </ul>
+ <h2 class="ingre">ingredients</h2>
+ <ul class="hello">
+     <li>100g of plain flour</li>
+     <li>2 large eggs</li>
+     <li>300ml milk</li>
+     <li>1 tbsp sunflower or vegetable oil</li>
+     <li>lemon wedges,to serve(optional)</li>
+     
+     
+     
+     
+     
+ </ul>
+ 
+ <p class="rep-1"><strong>Step 1:</strong> Put 100g of plain flower,2 large eggs,300ml of milk,1 tbsp of sunflower or vegetable oil and a pinch of salt into a large bowl.</p>
+ 
+ <p class="rep-2"><strong>Step 2:</strong> Set aside for 30 minutes to rest if you have time or start cooking straight away.</p>
+ 
+ <p class="rep-3"><strong>Step 3:</strong> Set a medium frying pan or crepe pan over a medium heat and carefully wipe it with some oiled kitchen paper.</p>
+ 
+ <p class="rep-4"><strong>Step 4:</strong> When hot,cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.</p>
+ 
+ <p class="rep-5"><strong>Step 5:</strong> Serve with lemon wedges and caster sugar, or <strong>your</strong> favourite filling. Once cold you can layer the pancakes between baking parchment, then wrap in cling film and keep for up to 2 months.</p>
+ 
+   <p><em>Source: <a target ="_blank" href="https://www.bbcgoodfood.com/recipes/easy-pancakes">pancakes for the win </a></em></p>
+<h1 class="epic">Well done you have completed Recipe 2!!!</h1>   
+
+   
+<h2>Recipe#3</h2>
+<h2>Contents</h2>
+<ul>
+    <li>Prep:5 mins</li>
+    <li>cook:10 mins</li>
+    <li>serves:8</li>
+</ul>
+<h2 class="ingr">ingredients</h2>
+<ul class="food">
+    <li>350g self raising flour</li>
+    <li>1/4tsp salt</li>
+    <li>1 tsp of baking powder</li>
+    <li>85g of butter cut into cubes</li>
+    <li>3 tbsp of caster sugar</li>
+    <li>175ml of milk</li>
+    <li>1tsp of vanilla extract</li>
+    <li>squeeze lemon juice</li>
+    <li>beaten egg,to glaze</li>
+    <li>Jam and clotted cream to serve</li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</ul>
+
+<p class="sco-1"><strong>Step 1:</strong> Heat oven to 220c oven,200c gas 7.Tip 350g of self-raising flower into a large bowl with 1/4tsp salt and 1 tsp baking powder, then mix.</p>
+
+<p class="sco-2"><strong>Step 2:</strong> Add 85g worth of butter cubes then rub in with your fingers until looks fine like crumbs then stir in 3 tbsp of caster sugar.Put 175ml milk into a jug and heat in the microwave for about 30 seconds until warm, but not hot.</p>
+
+<p class="sco-3"><strong>Step 3:</strong> Add 1 tsp of vanilla extract and a squeeze of lemon juice,then set aside for a moment. Put a baking sheet in the oven.Make a well in the dry mixture,then add liquid mixture and combine it quickly with cutlery knife-it will seem pretty wet at first.</p>
+
+<p class="sco-4"><strong>Step 4:</strong> Scatter some flour onto the work surface and tip the dough out.Dredge the dough and your hands with a little more flower,then fold the dough over 2-3 times until it is a little smoother.Pat into a round shape about 4cm deep.Take a 5cm cutter and dip it into some flour.Plunge into the dough, then repeat until you have 4 scones.You may need to press what is left of the dough back into a round to cut out another four.</p>
+
+<p class="sco-5"><strong> Step 5:</strong> Brush the tops with a beaten egg,then carefully place onto the hot baking tray.Bake for 10 mins until risen and golden on the top.Eat just warm or cold on the day of baking,generously topped with jam and clotted cream.If freezing, freeze once cool.Defrost, then put in a low oven(about 160c/fan and 140c/gas 3) for a few minutes to refresh.</p>
+ 
+<p><em>Source: <a target ="_blank" href="https://www.bbcgoodfood.com/recipes/classic-scones-jam-clotted-cream">scones!!! </a></em></p>
+
+<h1 class="yay">Well done you have completed Recipe 3!!!</h1>
+
+
+<h1>Recipe 4</h1>
+<h1>contents</h1>
+
+<ul>
+    <li>Prep:15 mins
+    <li>Cook:35 mins
+    <li>Serves:4 people
+</ul>
+
+<h2 class="ing">ingredients</h2>
+<ul class="ing-1">
+<li>500g of boneless chicken thighs</li>
+<p>For the marinade</p>
+<li>1 lemon,juiced</li>
+<li>2 tsp of ground cumin</li>
+<li>2 tsp of paprika</li>
+<li>1-2tsp of hot chilli powder</li>
+<li>200g of natural yogurt</li>
+<p>For the curry</p>
+<li>2tbsp of vegetable oil</li>
+<li>1 large onion,chopped</li>
+<li>3 garlic cloves,crushed</li>
+<li>1 green chilli,desseded and finely chopped(optional)</li>
+<li>thumb-sized piece ginger,grated</li>
+<li>1tsp garam masala</li>
+<li>2tsp ground fenugreek</li>
+<li>3tbsp tomato puree<li>
+<li>300ml chicken stock</li>
+<li>50g flaked almonds,toasted</li>
+
+
+
+    
+</ul>
+
+<p class="but-1"><strong>Step 1:</strong> In a medium bowl, mix all the marinade ingerdients,which you can see if you press on the link to the website, with some seasoning.Chop the chicken into bite-sized pieces and toss with the marinade.Cover and chill in the fridge for 1hr or overnight.</p>
+
+
+
+
+<p class="but-2"><strong>Step 2:</strong> In a large,heavy saucepan,heat the oil.Add the onion,garlic,green chilli,ginger and some seasoning.Fry on a medium heat for 10 mins or until soft.</p>
+
+
+
+
+<p class="but-3"><strong>Step 3:</strong> Add the spices with tomato puree, cook for a further 2mins until fragrant, then add the stock and the marinated chicken(which you should have marinated before the start of these instructions).Cook for 15mins,then add any remaining marinade that is left in the bowl.Simmer for 5mins, then sprinkle with the toasted almonds.Serve with rice,naan,bread,chutney,coriander and lime wedges,if you like.</p>
+
+
+
+<p><em>Source: <a target ="_blank" href="https://www.bbcgoodfood.com/recipes/easy-butter-chicken">butter chicken 4tw </a></em></p>
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+</body>
+</html>
